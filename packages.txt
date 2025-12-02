@@ -1,0 +1,6 @@
+default-jdk
+gcc
+g++
+nodejs
+npm
+python3
